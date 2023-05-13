@@ -1,1 +1,1 @@
-# rastreador-de-meteoros
+# rastreador-de-meteoros-para-o-outro-computador
